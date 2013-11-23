@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F907DD56-B2A3-413A-B904-9E49A76D42B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Routes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D40427B-172C-415E-A643-D33D5DE7A672</key>
+		<string>https://github.com/IgorTomych/Routes.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Routes/Routes.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D40427B-172C-415E-A643-D33D5DE7A672</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/IgorTomych/Routes.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0D40427B-172C-415E-A643-D33D5DE7A672</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D40427B-172C-415E-A643-D33D5DE7A672</string>
+			<key>IDESourceControlWCCName</key>
+			<string>git_routes</string>
+		</dict>
+	</array>
+</dict>
+</plist>
